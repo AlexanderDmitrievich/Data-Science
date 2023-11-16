@@ -1,0 +1,4 @@
+Ссылка на Датасет (MNIST, FashionMNIST)
+
+
+https://pytorch.org/vision/stable/datasets.html
